@@ -1,0 +1,17 @@
+{
+    "name": "emera/wildfire",
+    "authors": [
+        {
+            "name": "emeraldjunn",
+            "email": "emeraldjunn@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Core\\":"Core/",
+            "Http\\":"Http/"
+        }
+        
+    }
+}

@@ -1,0 +1,8 @@
+html, body,p, h1, h2, h3, h4, h5, h6 {
+    font-family: "Arial",sans-serif;
+}
+
+body, container, .container {
+    max-width: 800px;
+    margin: 0 auto; 
+}
