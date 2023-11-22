@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="css/custom.css"/>
 </head>
-<body class="h-full">
+<body class="h-full container margin-auto">
     
 <div class="min-h-full">
    
